@@ -2,6 +2,6 @@
 
 Navya 🌟 — Your Companion for Insightful Conversations and Effortless Interaction 💬✨
 
-<a href="url" align="center">
-  <img src="imgs/navya_avatar.png" alt="Avatar" height="auto" width="200" style="border-radius:50%"/>
-</a>
+<p align="center">
+  <img src="imgs/navya_avatar_v0.1.png" alt="Avatar" height="auto" width="200" style="border-radius:50%"/>
+</p>
